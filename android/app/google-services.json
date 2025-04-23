@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "963113311449",
+    "project_id": "foodies-9d881",
+    "storage_bucket": "foodies-9d881.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963113311449:android:9e2474e83c0270006a32c8",
+        "android_client_info": {
+          "package_name": "com.example.foodies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963113311449-dsrfqm8sa7jjpqe61hoqdedr4d5qh0if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodies",
+            "certificate_hash": "cc22806f17a70132a19927a7a80ffa01ac40dc95"
+          }
+        },
+        {
+          "client_id": "963113311449-cmg5jap1ee51gl8qn7q5jf50qms8fbvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqktTSHYDhFAsBuqw9PoTXkozMdQoxy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963113311449-cmg5jap1ee51gl8qn7q5jf50qms8fbvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963113311449:android:44aa0030727f7a5c6a32c8",
+        "android_client_info": {
+          "package_name": "com.example.foodies2_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963113311449-cmg5jap1ee51gl8qn7q5jf50qms8fbvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqktTSHYDhFAsBuqw9PoTXkozMdQoxy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963113311449-cmg5jap1ee51gl8qn7q5jf50qms8fbvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
